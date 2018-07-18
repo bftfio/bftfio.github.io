@@ -1,12 +1,27 @@
 # Setup
-name:         Project or Site name (Architect Theme)
-tagline:      A responsive theme for your project on GitHub Pages
+name:         BFTF
+tagline:      BFTF
 baseurl:      ""
 locale:       "en"
 
-# Gems
-gems:
-  - jekyll-paginate
-
 #Others
 markdown: kramdown
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+tag_feed_layout: tag_feed
+tag_feed_dir: tag
+
+tag_permalink_style: pretty
+
+tag_page_data:
+  sitemap: false
+
+github_username: bftfio
+
+plugins:
+ - jekyll-paginate
+
+
+
