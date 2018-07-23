@@ -14,3 +14,4 @@ tags: news
 6. 以太坊开发入门，完整入门篇 <http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html>>
 
 编辑：jolestar
+地址：http://bftf.io/news/2018/07/23/bftf-daily-news.html
