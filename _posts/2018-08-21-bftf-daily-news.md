@@ -18,7 +18,7 @@ tags: news
 4. 用区块链技术改造教育行业
    <http://go.bftf.io/forbes.com/sites/tomvanderark/2018/08/20/26-ways-blockchain-will-transform-ok-may-improve-education>
 
-5. Chainlink：完全去中心化的语言机网络
+5. Chainlink：完全去中心化的预言机网络
    <http://go.bftf.io/youtube.com/watch?v=EiKhhu5fL2w> 该项目官网：<http://go.bftf.io/github.com/smartcontractkit/chainlink>
 
 编辑：LifePlayer
