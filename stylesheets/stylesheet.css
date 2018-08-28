@@ -862,6 +862,10 @@ dl dd {
     margin-left: 0;
 }
 
+.social-media-list li {
+    margin-top:10px;
+}
+
 .icon {
     > svg {
         display: inline-block;
