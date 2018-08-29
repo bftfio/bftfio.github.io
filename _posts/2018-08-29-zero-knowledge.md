@@ -24,4 +24,4 @@ tags: subject
 10. SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge <http://go.bftf.io/eprint.iacr.org/2013/507>
 
 编辑：Jolestar
-地址：<http://go.bftf.io/bftf.io/news/2018/08/27/zero-knowledge.html>
+地址：<http://go.bftf.io/bftf.io/news/2018/08/29/zero-knowledge.html>
