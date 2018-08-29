@@ -11,7 +11,7 @@ tags: news
 3. 环形签名和匿名化：<http://go.bftf.io/medium.com/coinmonks/ring-signatures-and-anonymisation-c9640f08a193> 代码示例：<http://go.bftf.io/asecuritysite.com/encryption/ring_sig>
 4. 理解以太坊的第2层缩放解决方案：状态通道，等离子：<http://go.bftf.io/medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4>
 5. 如何审计一个智能合约：<http://go.bftf.io/blockgeeks.com/guides/audit-smart-contract/> 以太坊智能合约最佳实践：<http://go.bftf.io/consensys.github.io/smart-contract-best-practices/>
-6. 深度剖析区块链跨链技术Cosmos：<http://go.bftf.io/mp.weixin.qq.com/s/FwkYoxaOb-n4U4sH2iez6Q（上篇）<http://go.bftf.io/mp.weixin.qq.com/s/MjC4dZ_QOseLvw-hwmKdTw>（下篇）
+6. 深度剖析区块链跨链技术Cosmos：<http://go.bftf.io/mp.weixin.qq.com/s/FwkYoxaOb-n4U4sH2iez6Q>（上篇）<http://go.bftf.io/mp.weixin.qq.com/s/MjC4dZ_QOseLvw-hwmKdTw>（下篇）
 
 编辑：lth2015
 地址：<http://go.bftf.io/bftf.io/news/2018/08/30/bftf-daily-news.html>
