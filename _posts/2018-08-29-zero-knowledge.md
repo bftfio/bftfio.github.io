@@ -22,6 +22,10 @@ tags: subject
 8. bellman: a zk-SNARK Rust library <http://go.bftf.io/github.com/zkcrypto/bellman>
 9. A C++ library for zero knowledge (ZK) scalable transparent argument of knowledge (STAR <http://go.bftf.io/github.com/elibensasson/libSTARK>
 10. SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge <http://go.bftf.io/eprint.iacr.org/2013/507>
+11. Pinocchio: Nearly Practical Verifiable Computation <http://go.bftf.io/eprint.iacr.org/2013/279.pdf>
+12. A Note on the Unsoundness of vnTinyRAM’s SNARK <http://go.bftf.io/eprint.iacr.org/2015/437.pdf>
+
+
 
 编辑：Jolestar
 地址：<http://go.bftf.io/bftf.io/news/2018/08/29/zero-knowledge.html>
