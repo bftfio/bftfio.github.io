@@ -12,6 +12,7 @@ tags: news
 4. MimbleWimble 和 Grin机理简介  <http://go.bftf.io/cryptomoonshots.com/t/introduction-to-mimblewimble-and-grin/51>
 5. 无脚本的脚本--比特币如何在没有智能合约的情况下支持智能合约 <http://go.bftf.io/bitcoinmagazine.com/articles/scriptless-scripts-how-bitcoin-can-support-smart-contracts-without-smart-contracts/>
 6. 30种共识算法大全 <http://go.bftf.io/www.infoq.com/cn/articles/consensuspedia-an-encyclopedia-of-29-consensus-algorithms>
+7.  谷歌宣布其BigQuery服务已支持以太坊区块链数据分析 <http://go.bftf.io/mp.weixin.qq.com/s/zXYU4-y2xlA27yg9QB4mxg>
 
 编辑：fanngyuan
 地址：<http://go.bftf.io/bftf.io/news/2018/09/06/bftf-daily-news.html>
