@@ -18,6 +18,8 @@ tags: news
 
 6.智能合约的反模式：<http://go.bftf.io/blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/>
 
+7.什么是经过时间共识的证明（PoET）完全初学者指南: <http://go.bftf.io/https://blockonomi.com/proof-of-elapsed-time-consensus/>
+
 编辑：lth2015
 
 地址：<http://go.bftf.io/bftf.io/news/2018/09/12/bftf-daily-news.html>
