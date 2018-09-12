@@ -18,12 +18,14 @@ tags: subject
   二. <http://go.bftf.io/zhuanlan.zhihu.com/p/33307259>
 5. 不是程序员也能看懂的ZCash零知识证明  <http://go.bftf.io/zhuanlan.zhihu.com/p/24440530>
 6. 零知识证明的江湖 <http://go.bftf.io/zhuanlan.zhihu.com/p/31651393>
-7. libsnark: a C++ library for zkSNARK proofs <http://go.bftf.io/github.com/scipr-lab/libsnark>
-8. bellman: a zk-SNARK Rust library <http://go.bftf.io/github.com/zkcrypto/bellman>
-9. A C++ library for zero knowledge (ZK) scalable transparent argument of knowledge (STAR <http://go.bftf.io/github.com/elibensasson/libSTARK>
-10. SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge <http://go.bftf.io/eprint.iacr.org/2013/507>
-11. Pinocchio: Nearly Practical Verifiable Computation <http://go.bftf.io/eprint.iacr.org/2013/279.pdf>
-12. A Note on the Unsoundness of vnTinyRAM’s SNARK <http://go.bftf.io/eprint.iacr.org/2015/437.pdf>
+7. 众目睽睽下隐身，zk-SNARK黑科技如何保护区块链隐私 <http://go.bftf.io/my.oschina.net/wdyoschina/blog/1570082> Victor 的一篇文章，讲的非常清楚，原文地址失效，这是一篇转载地址。
+8. libsnark: a C++ library for zkSNARK proofs <http://go.bftf.io/github.com/scipr-lab/libsnark>
+9. bellman: a zk-SNARK Rust library <http://go.bftf.io/github.com/zkcrypto/bellman>
+10. A C++ library for zero knowledge (ZK) scalable transparent argument of knowledge (STAR <http://go.bftf.io/github.com/elibensasson/libSTARK>
+11. Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture <http://go.bftf.io/eprint.iacr.org/2013/879.pdf>
+12. SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge <http://go.bftf.io/eprint.iacr.org/2013/507>
+13. Pinocchio: Nearly Practical Verifiable Computation <http://go.bftf.io/eprint.iacr.org/2013/279.pdf>
+14. A Note on the Unsoundness of vnTinyRAM’s SNARK <http://go.bftf.io/eprint.iacr.org/2015/437.pdf>
 
 
 
