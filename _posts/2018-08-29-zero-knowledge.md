@@ -35,4 +35,4 @@ tags: subject
 
 
 编辑：Jolestar
-地址：<http://go.bftf.io/bftf.io/news/2018/08/29/zero-knowledge.html>
+地址：<http://go.bftf.io/bftf.io/subject/2018/08/29/zero-knowledge.html>
