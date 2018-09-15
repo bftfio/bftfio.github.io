@@ -15,8 +15,7 @@ tags: subject
 3. Vitalik 科普系列
   Quadratic Arithmetic Programs: from Zero to Hero <http://go.bftf.io/medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649>
   Zk-SNARKs: Under the Hood <http://go.bftf.io/medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6>
-4. Explaining SNARKs 系列
-  <http://go.bftf.io/blog.z.cash/snark-explain1/> <http://go.bftf.io/blog.z.cash/snark-explain2/> <http://go.bftf.io/blog.z.cash/snark-explain3/> <http://go.bftf.io/blog.z.cash/snark-explain4/> <http://go.bftf.io/blog.z.cash/snark-explain5/> <http://go.bftf.io/blog.z.cash/snark-explain6/> <http://go.bftf.io/blog.z.cash/snark-explain7/>
+4. Explaining SNARKs 系列 <http://go.bftf.io/blog.z.cash/snark-explain1/> <http://go.bftf.io/blog.z.cash/snark-explain2/> <http://go.bftf.io/blog.z.cash/snark-explain3/> <http://go.bftf.io/blog.z.cash/snark-explain4/> <http://go.bftf.io/blog.z.cash/snark-explain5/> <http://go.bftf.io/blog.z.cash/snark-explain6/> <http://go.bftf.io/blog.z.cash/snark-explain7/>
 5. zkSNARKs in a Nutshell <http://go.bftf.io/chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf>
 6. 白话零知识证明
   一. <http://go.bftf.io/zhuanlan.zhihu.com/p/33189921>
