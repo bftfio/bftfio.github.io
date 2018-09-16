@@ -6,7 +6,8 @@ categories: news
 tags: news
 ---
 
-1. 10分钟理解零知识证明：<http://go.bftf.io/weibo.com/tv/v/GzqHKCsE4?fid=1034:4284365245765548>
+1. BFTF 密码学和零知识证明研讨会，2018-09-16 (周日）14 点，直播地址：<http://go.bftf.io/live.bilibili.com/13574369>
+2. 10分钟理解零知识证明：<http://go.bftf.io/weibo.com/tv/v/GzqHKCsE4?fid=1034:4284365245765548>
 2. 区块链技术为我们跟后代联系提供了很好的机会：
    <http://go.bftf.io/hackernoon.com/what-is-blockchain-immortality-3220bfa5cee1>
 3. GörliTestnet是一个新的Ethereum测试网络，同时允许Geth和Parity在上面进场测试：
