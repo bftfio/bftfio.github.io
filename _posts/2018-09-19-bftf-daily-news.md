@@ -16,7 +16,7 @@ tags: news
 
 5. 用区块链重新构建身份识别（Identity）：<http://go.bftf.io/hackernoon.com/reimagining-identity-with-blockchain-ab2663bbb04e>
 
-6. 在控制Multi-Agent代理系统中共识算法的问题概览：<http:/go.bftf.io/www.tandfonline.com/doi/pdf/10.1080/00051144.2018.1492688?needAccess=true>
+6. 在控制Multi-Agent代理系统中共识算法的问题概览：<http://go.bftf.io/www.tandfonline.com/doi/pdf/10.1080/00051144.2018.1492688?needAccess=true>
 
 编辑：@lth2015
 
