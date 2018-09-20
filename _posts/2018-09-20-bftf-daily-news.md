@@ -14,7 +14,7 @@ tags: news
 
 4. 体育博彩业革新？Wagerr 发布全球首个用于竞技运动博彩行业的去中心化投注区块链项目 <http://go.bftf.io/bitcoinafrica.io/2018/09/19/wagerr-launches-decentralised-betting-blockchain/>，项目官网：<http://go.bftf.io/wagerr.com/>
 
-5. “脑洞！天灾人祸后如何求救？加密货币来帮你！”离线加密货币交易作为生命迹象可以帮助灾后幸存者搜救 <http://go.bftf.io/toshitimes.com/new-off-grid-crypto-transacting-could-be-used-as-sos-signal-in-proof-of-life-post-disaster-situations/>
+5. “脑洞！天灾人祸后如何求救？加密货币来帮你！”离线加密货币交易可作为生命迹象可以帮助灾后幸存者搜救 <http://go.bftf.io/toshitimes.com/new-off-grid-crypto-transacting-could-be-used-as-sos-signal-in-proof-of-life-post-disaster-situations/>
 
 6. 地产巨头 Fidelity 将在年底发布其区块链及加密货币产品 <http://go.bftf.io/coingape.com/fidelity-launch-crypto-products-confirms-ceo/>
 
