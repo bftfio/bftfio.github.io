@@ -6,7 +6,7 @@ categories: news
 tags: news
 ---
 
-1. BLOCKLOAN，区块链落地金融信贷 <http://go.bftf.io/block.loan/powered-by-lodex-a-50000-member-mvp>
+1. BLOCKLOAN：区块链落地金融信贷 <http://go.bftf.io/block.loan/powered-by-lodex-a-50000-member-mvp>
 
 2. 区块链溯源又一案例！沃尔玛（Walmart）联合供应商通过区块链技术提升果蔬安全 <http://go.bftf.io/cnet.com/news/walmart-picks-blockchain-to-track-food-safety-with-veggie-suppliers> <http://go.bftf.io/nytimes.com/2018/09/24/business/walmart-blockchain-lettuce.html>
 
