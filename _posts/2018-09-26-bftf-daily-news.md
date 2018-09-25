@@ -11,6 +11,7 @@ tags: news
 3. 闪电网络hub的风险 <http://go.bftf.io/medium.com/breez-technology/the-risk-of-running-lightning-network-hubs-23ef333c07a4>
 4. TumbleBit 比特币匿名支付多人状态通道论文 <http://go.bftf.io/eprint.iacr.org/2016/575.pdf>
 5. PERUN虚拟状态通道 <http://go.bftf.io/www.youtube.com/watch?v=hFD1YaYVD6c>
+6. 反直觉的Algorand：突破“不可能三角”，理想国还是乌托邦？ <http://go.bftf.io/mp.weixin.qq.com/s/uykUDqtrIZU2WXCUkWIwSA>
 
 附录：2018 DApp 开发者大会将于11月9日在北京举行。报名地址：<http://go.bftf.io/www.bagevent.com/event/1871915> 议题提交地址：<http://go.bftf.io/jinshuju.net/f/EqH1eI>
 
