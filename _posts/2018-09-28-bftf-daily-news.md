@@ -21,7 +21,7 @@ ERC1400提案中文版，关于ERC的新成员，你想要知道的都在这里�
 
 7. 如何解密keystore文件: <http://go.bftf.io/huoding.com/2018/09/26/697>
 
-8. 引介 | 数字货币钱包：生态及技术: 这篇从钱包概述及其生态介绍，到钱包安全性、设计原理，还是比较系统的。 <http://go.bftf.io/ethfans.org/posts/wallet-ecosystem-and-technology> 引申阅读：关于钱包的基础密码学<http://go.bftf.io/ethfans.org/aaaaaashu/articles/602>
+8. 数字货币钱包：生态及技术: 这篇从钱包概述及其生态介绍，到钱包安全性、设计原理，还是比较系统的。 <http://go.bftf.io/ethfans.org/posts/wallet-ecosystem-and-technology> 引申阅读：关于钱包的基础密码学<http://go.bftf.io/ethfans.org/aaaaaashu/articles/602>
 
 
 
