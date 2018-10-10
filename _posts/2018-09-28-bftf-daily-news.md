@@ -19,11 +19,12 @@ tags: news
 6. ERC-20将被淘汰？ERC-777能否力挽狂澜：<http://go.bftf.io/mp.weixin.qq.com/s/j3JNicnKQ136yj_moTMBwQ>
 ERC1400提案中文版，关于ERC的新成员，你想要知道的都在这里了<http://go.bftf.io/www.huoxing24.com/newsdetail/20180927092351967868.html>
 
-7. 如何解密keystore文件: <https://go.bftf.io/huoding.com/2018/09/26/697>
+7. 如何解密keystore文件: <http://go.bftf.io/huoding.com/2018/09/26/697>
 
-8. 引介 | 数字货币钱包：生态及技术: 这篇从钱包概述及其生态介绍，到钱包安全性、设计原理，还是比较系统的。 <https://go.bftf.io/ethfans.org/posts/wallet-ecosystem-and-technology> 引申阅读：关于钱包的基础密码学<https://go.bftf.io/ethfans.org/aaaaaashu/articles/602>
+8. 数字货币钱包：生态及技术: 这篇从钱包概述及其生态介绍，到钱包安全性、设计原理，还是比较系统的。 <http://go.bftf.io/ethfans.org/posts/wallet-ecosystem-and-technology> 引申阅读：关于钱包的基础密码学<http://go.bftf.io/ethfans.org/aaaaaashu/articles/602>
 
 
 
 编辑：suoyuan
+
 地址：<http://go.bftf.io/bftf.io/news/2018/09/28/bftf-daily-news.html>
