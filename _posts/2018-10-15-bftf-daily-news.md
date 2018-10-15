@@ -6,7 +6,7 @@ categories: news
 tags: news
 ---
 
-1. Powered by Lightning — Part 1 (A quick primer on the Lightning Network and how it is making money programmable)  <http:/go.bftf.io/medium.com/coinmonks/powered-by-lightning-part-1-3b6a514a0670>
+1. Powered by Lightning — Part 1 (A quick primer on the Lightning Network and how it is making money programmable)  <http://go.bftf.io/medium.com/coinmonks/powered-by-lightning-part-1-3b6a514a0670>
 
     Part 2 (Using the Lightning Network as a user)  <http://go.bftf.io/medium.com/coinmonks/powered-by-lightning-part-2-5ef1e76e4288>   
 
