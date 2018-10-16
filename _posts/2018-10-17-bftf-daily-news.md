@@ -10,7 +10,8 @@ tags: news
 	<http://go.bftf.io/media.weibo.cn/article?id=2309404295818084527311>
 
 2. LiteTree：一个超快速，可分支的数据库引擎(用于AERGO)：
-	<http//go.bftf.io/medium.com/aergo/releasing-litetree-a-blazing-fast-branchable-database-engine-ab477ea6c9da>
+	<http://go.bftf.io/medium.com/aergo/releasing-litetree-a-blazing-fast-branchable-database-engine-ab477ea6c9da>
+
    代码地址：
 	<http://go.bftf.io/github.com/aergoio/litetree>
 
