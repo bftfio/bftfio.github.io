@@ -8,7 +8,7 @@ tags: news
 
 BFTF 区块链技术日报(2018-10-24)
 
-1. 激励循环——加密算法如何实际修复现有激励循环 <http://go.bftf.io/ethfans.org/posts/incentive-loops-how-crypto-actually-fixes-stuff
+1. 激励循环——加密算法如何实际修复现有激励循环 <http://go.bftf.io/ethfans.org/posts/incentive-loops-how-crypto-actually-fixes-stuff>
 
 2. 比特币，概率与随机性: <http://go.bftf.io/ethfans.org/posts/bitcoin-chance-and-randomness>
 
