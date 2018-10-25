@@ -21,4 +21,4 @@ BFTF 区块链技术日报(2018-10-25)
 
 编辑：@fikgol
 
-地址：http://go.bftf.io/bftf.io/news/2018/10/25/bftf-daily-news.html
+地址：<http://go.bftf.io/bftf.io/news/2018/10/25/bftf-daily-news.html>
