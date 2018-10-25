@@ -61,6 +61,8 @@ GEM
     jekyll-coffeescript (1.1.1)
       coffee-script (~> 2.2)
       coffee-script-source (~> 1.11.1)
+    jekyll-feed (0.11.0)
+      jekyll (~> 3.3)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
@@ -125,6 +127,7 @@ DEPENDENCIES
   jekyll-architect-theme!
   jekyll-assets
   jekyll-coffeescript
+  jekyll-feed
   jekyll-gist
   jekyll-paginate
   kramdown
@@ -132,4 +135,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
