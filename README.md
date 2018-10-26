@@ -4,9 +4,11 @@
 
 BFTF，可以理解成 Blockchain Funds-Technology Federation 或者 Byzantine Fault Tolerance Federation。
 
-[http://bftf.io](http://bftf.io)
+- Website: [http://bftf.io]
+- RSS: [http://bftf.io/feed.xml]
 
-BFTF 的一个常规活动是定期的 BFTF 知享会（BFTF Meetup），初步计划每个月举行一次，每期一个方向，大约包含四个主题演讲，每个主题五十分钟左右，若干个闪电演讲，每个十分钟左右。演讲都主要围绕构当期方向，以技术干活为主。构想中的主题方向大致有：
+BFTF 的一个常规活动是定期的 BFTF 知享会（BFTF Meetup），初步计划每个月举行一次，每期一个方向，大约包含四个主题演讲，每个主题五十分钟左右，若干个闪电演讲，每个十分钟左右。
+演讲都主要围绕构当期方向，以技术干活为主。构想中的主题方向大致有：
 
 - 区块链共识算法
 - 区块链前沿理论和实践 分享区块链理论领域的最新研究以及实践成果。
