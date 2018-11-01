@@ -17,7 +17,7 @@ BFTF 区块链技术日报(2018-11-01)
 5. 巴西政府下令解禁所有加密货币交易所的冻结账户 <http://go.bftf.io/news.bitcoin.com/brazilian-banks-ordered-to-reopen-cryptocurrency-exchanges-frozen-accounts/>
 6. 摩根大通（JPMorgan）将金条上链（tokenize）到自己的企业级区块链平台 Quorum <http://bftf.io/thetokenist.io/jpmorgan-to-tokenize-gold-bars/>
 7. 避免陷阱，确保 EOS 合约安全 <http://go.bftf.io/blog.bountyone.io/eos-smart-contract-security/>
-8. 面向 Web3.0 的开源安全基础设施——构建在以太坊（Ethereum）上的2FA <http://go.bftf.io/medium.com/@albertocevallosh/2nd-factor-authentication-on-ethereum-e9ca40f4991e>
+8. 面向 Web3.0 的开源安全基础设施——利用以太坊（Ethereum）来构建双因子验证（2FA） <http://go.bftf.io/medium.com/@albertocevallosh/2nd-factor-authentication-on-ethereum-e9ca40f4991e>
 
 编辑：@lifeplayer
 
