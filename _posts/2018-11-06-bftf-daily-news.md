@@ -8,7 +8,7 @@ tags: news
 
 
 
-BFTF 区块链技术日报(2018-11-05)
+BFTF 区块链技术日报(2018-11-06)
 
 1. 东京机场交通联络线今日起接受比特币支付 <http://go.bftf.io/newsbtc.com/2018/11/05/tokyo-airport-limousines-will-start-accepting-bitcoin-as-payment/?fbclid=IwAR0iZlyU_PI90icGdKcdELp-HTNt8H6Uf1p--witZBSyBdS7Ue7LzEWI5IM>
 2. PDASH 项目正式开源 <http://go.bftf.io/medium.com/@cpchain/cpchain-pdash-platform-open-source-2-0-3c761d008f00>
