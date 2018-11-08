@@ -21,7 +21,7 @@ tag_page_data:
 github_username: bftfio
 
 plugins:
- - jekyll-paginate
-
+  - jekyll-paginate
+  - jekyll-feed
 
 
