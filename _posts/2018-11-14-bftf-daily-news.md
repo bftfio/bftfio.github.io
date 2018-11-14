@@ -18,4 +18,6 @@ BFTF 区块链技术日报(2018-11-14)
 
 5. 以太坊区块链大小超过 1T <http://go.bftf.io/hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62>
 
+
 编辑: @fikgol
+地址：http://go.bftf.io/bftf.io/news/2018/11/14/bftf-daily-news.html
