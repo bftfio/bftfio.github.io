@@ -17,3 +17,5 @@ BFTF 区块链技术日报(2018-11-14)
 4. 基于区块链的 SQL dataBase <http://go.bftf.io/github.com/CovenantSQL/CovenantSQL>
 
 5. 以太坊区块链大小超过 1T <http://go.bftf.io/hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62>
+
+编辑: @fikgol
