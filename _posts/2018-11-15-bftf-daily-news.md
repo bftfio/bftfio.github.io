@@ -18,9 +18,9 @@ BFTF 区块链技术日报(2018-11-15)
 
 5. EOS真的去中心化吗 <http://go.bftf.io/medium.com/@Michael_Spencer/is-eos-really-decentralized-ceec89440dd3>
 
-6.《区块链之新》第1集：冒险从它开始 <http://go.bftf.io/v.qq.com/x/page/c061565w46x.html>
+6. 《区块链之新》第1集：冒险从它开始 <http://go.bftf.io/v.qq.com/x/page/c061565w46x.html>
 
-7.《区块链之新》第2集：斗争与对立，改变比特币命运的中美之战  <http://go.bftf.io/v.qq.com/x/cover/io7tl50etabtu4e/h0791ip7rnu.html>
+7. 《区块链之新》第2集：斗争与对立，改变比特币命运的中美之战  <http://go.bftf.io/v.qq.com/x/cover/io7tl50etabtu4e/h0791ip7rnu.html>
 
 8. BCH和澳本聪  <http://go.bftf.io/mp.weixin.qq.com/s/-Tt8Pvfg-hg-LcEGl1ExeQ>
 
