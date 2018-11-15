@@ -22,6 +22,8 @@ BFTF 区块链技术日报(2018-11-15)
 
 7.《区块链之新》第2集：斗争与对立，改变比特币命运的中美之战  <http://go.bftf.io/v.qq.com/x/cover/io7tl50etabtu4e/h0791ip7rnu.html>
 
+8. BCH和澳本聪  <http://go.bftf.io/mp.weixin.qq.com/s/-Tt8Pvfg-hg-LcEGl1ExeQ>
+
 
 编辑: @fanngyuan
 地址：http://go.bftf.io/bftf.io/news/2018/11/15/bftf-daily-news.html
