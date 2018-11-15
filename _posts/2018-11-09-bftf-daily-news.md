@@ -18,6 +18,7 @@ BFTF 区块链技术日报(2018-11-09)
 6. 安全令牌需要新的区块链吗?第三部分：构件块（26号推过第二部分）<http://go.bftf.io/hackernoon.com/do-security-tokens-need-a-new-blockchain-part-iii-the-building-blocks-7adfa7239bb0>
 7. 开源项目 Corda刚开源，star已经2000+了<http://go.bftf.io/github.com/corda/corda>
 8. 聊聊11月15号的BCH算力战(昨天的文章) <http://go.bftf.io/zhuanlan.zhihu.com/p/48767201>
+
 编辑：suoyuan
 
 地址：http://go.bftf.io/bftf.io/news/2018/11/09/bftf-daily-news.html
