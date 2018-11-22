@@ -28,5 +28,5 @@ BFTF 区块链技术日报(2018-11-22)
 
 编辑：@fanngyuan
 
-地址：http://go.bftf.io/bftf.io/news/2018/11/22/bftf-daily-news.html
+地址：<http://go.bftf.io/bftf.io/news/2018/11/22/bftf-daily-news.html>
 
