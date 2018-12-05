@@ -18,7 +18,7 @@ BFTF 区块链技术日报(2018-12-05)
 
 5. VB：最小化状态执行提案 <http://go.bftf.io/ethresear.ch/t/a-minimal-state-execution-proposal/4445>
 
-6. EOS 进阶系列 — Part 1 — Cryptographic Hashes <http://go.bftf.io/coinmonks/advanced-eos-series-part-1-cryptographic-hashes-a251a8d371b8>
+6. EOS 进阶系列 — Part 1 — Cryptographic Hashes <http://go.bftf.io/medium.com/coinmonks/advanced-eos-series-part-1-cryptographic-hashes-a251a8d371b8>
 
 7. 智能合约中降低 gas 开销的 8 种方案 <http://go.bftf.io/medium.com/coinmonks/8-ways-of-reducing-the-gas-consumption-of-your-smart-contracts-9a506b339c0a>
 
