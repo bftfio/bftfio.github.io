@@ -886,3 +886,31 @@ dl dd {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+
+footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #275da1;
+  font-size: 16px;
+  color: #fff;
+}
+
+footer .links .logo-list{
+  display: flex;
+}
+
+footer .links .logo-list span{
+  transition-duration: .3s;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+footer .links .logo-list img{
+  height: 40px;
+}
+
+.tooltip {
+  position: relative;
+}
