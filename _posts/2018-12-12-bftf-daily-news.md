@@ -1,11 +1,3 @@
----
-layout: post
-title:  "BFTF 区块链技术日报(2018-12-12)"
-author: "BFTF技术社区联盟"
-categories: news
-tags: news
----
-
 BFTF 区块链技术日报(2018-12-12)
 
 1. 干货 | PoS 区块链共识算法中的同步和时序假设: <http://go.bftf.io/ethfans.org/posts/synchrony-and-timing-assumptions-in-consensus-algorithms-used-in-proof-of-stake-blockchains>
