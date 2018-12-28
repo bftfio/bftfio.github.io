@@ -24,6 +24,6 @@ BFTF 区块链技术日报(2018-12-28)
 4. 区块链招聘 <http://go.bftf.io/groups.google.com/forum/#!topic/bftfio/Mx3IJrzSCVQ>
 
 
-编辑：@fanngyuan
+编辑：@suoyuan
 
 地址：http://go.bftf.io/bftf.io/news/2018/12/28/bftf-daily-news.html
