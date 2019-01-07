@@ -24,3 +24,4 @@ BFTF 区块链技术日报(2019-01-02)
 编辑：@jolestar
 
 地址：http://go.bftf.io/bftf.io/news/2019/01/02/bftf-daily-news.html
+
