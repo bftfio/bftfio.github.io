@@ -22,7 +22,7 @@ BFTF 区块链技术日报(2019-01-07)
 ### 活动与讨论
 
 1. 区块链这一年 meetup 主题征集 <https://groups.google.com/forum/#!topic/bftfio/558Sxw5E6n8>
-2. 2019 MiiX 区块链 开发者大赛 2019年1月12日 <http://go.bftf.io/mp.weixin.qq.com/s/exlaDqeWR69NdAx2vScJLw>
+2. 2019 MiiX 区块链 开发者大赛 2019年1月12日 <http://go.bftf.io/www.huodongxing.com/event/7468252506400>
 3. 区块链招聘 <http://go.bftf.io/groups.google.com/forum/#!topic/bftfio/Mx3IJrzSCVQ>
 
 
