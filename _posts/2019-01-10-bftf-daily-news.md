@@ -18,6 +18,8 @@ BFTF 区块链技术日报(2019-01-10)
 
 5. 揭示比特币的“社会契约” <http://go.bftf.io/medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9>
 
+6. 思考：加密货币与开放金融体系 <http://go.bftf.io/medium.com/@PanteraCapital/a-crypto-thesis-47eaacf861ca>
+
 
 编辑：Life Player
 
