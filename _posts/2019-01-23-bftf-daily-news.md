@@ -20,6 +20,7 @@ BFTF 区块链技术日报(2019-01-23)
 
 6. 以太坊用户体验的痛点: <http://go.bftf.io/ethfans.org/posts/challenge-of-ux-in-ethereum>
 
+7. 突破区块链不可能三角:异步共识组 [Monoxide]: <http://go.bftf.io/mp.weixin.qq.com/s/QC8mVZ-TwTrsy5HFFYjYNA>
 
 编辑：@lth2015
 
