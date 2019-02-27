@@ -18,6 +18,8 @@ BFTF 区块链技术日报(2019-02-28)
 
 5. 安永(四大会计师事务所)收购加密资产税务工具以审计区块链 <http://go.bftf.io/medium.com/@coinpost.official/big-four-firm-ey-acquires-crypto-assets-tax-tool-to-audit-blockchains-36b6e90fddd1>
 
+6. 隐密交易的到来：深入 AZTEC 协议 <http://go.bftf.io/mp.weixin.qq.com/s/qvpmpo64B-CE95k1h9PHaA>
+
 招聘：
 
 1. VMware招聘区块链开发工程师（北京） http://go.bftf.io/gocn.vip/m/question/3140
