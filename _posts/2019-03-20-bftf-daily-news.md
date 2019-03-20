@@ -14,7 +14,7 @@ BFTF 区块链技术日报(2019-03-20)
 4. 以太坊 1.x 的扩展极限 <http://go.bftf.io/ethfans.org/posts/hypothetical-maximum-scale-of-eth-1-x>
 5. 火币 HUSD v1.0 案例研究 <http://go.bftf.io/ethfans.org/posts/a-case-study-on-husd>
 6. Reaching Everyone, Pt III: Why Bitcoin Matters — Privacy, Freedom and Authority (比特币的重要性第三部分: 隐私、自由和权威) <http://go.bftf.io/hackernoon.com/reaching-everyone-pt-iii-why-bitcoin-matters-privacy-freedom-and-authority-68257bdd9e5>
-
+7. JPM Coin 三部曲 (中) - 摩根大通为何青睐 Quorum 区块链? <http://go.bftf.io/mp.weixin.qq.com/s/69pOyA0a1OI16Ba3hWq52A>
 
 编辑：@fikgol
 
