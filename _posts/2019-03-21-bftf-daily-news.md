@@ -14,6 +14,8 @@ BFTF 区块链技术日报(2019-03-21)
 4. 闪电网络通道管理 <http://go.bftf.io/www.youtube.com/watch?v=HlPIB6jt6ww&>
 5. 使用批量技术加速区块链 <http://go.bftf.io/eprint.iacr.org/2018/1188.pdf>
 
+招聘信息：<http://go.bftf.io/mehire.51job.com/recommend/recommenddetail.php?aid=wx65fbbc709e826e33&oid=o11sev-YKP7OH6oKr4IEYIKDHTYU&id=o11sev7fNHkZMPhZgEL6opiGJNqw&cid=3057683&did=1&sign=2d19cd83fa3a46ea&jobid=108494663&coid=4166196&osign=192eddda748baafa>
+
 编辑：@fanngyuan
 
 地址：http://go.bftf.io/bftf.io/news/2019/03/21/bftf-daily-news.html
