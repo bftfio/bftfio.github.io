@@ -5,7 +5,7 @@ author: "BFTF 技术社区联盟"
 categories: news
 tags: news
 ---
-i
+
 BFTF 区块链技术日报(2019-04-03)
 
 1. Simplified code of Bitcoin Lightning Network — Spend Revocable Delivery (简化代码的比特币闪电网络-花可撤销交付) 这个系列最简化的实现了一个闪电网络的核心部分<http://go.bftf.io/medium.com/coinmonks/simplified-code-of-bitcoin-lightning-network-spend-revocable-delivery-90e50f0256d5>
