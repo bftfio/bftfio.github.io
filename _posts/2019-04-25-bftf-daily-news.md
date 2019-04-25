@@ -8,7 +8,7 @@ tags: news
 
 BFTF 区块链技术日报(2019-04-25)
 
-1. Plasma教程<http://go.bftf.io//www.chainshot.com/intro/5c36bf15143eed0017f579755be33994e6b0b02ef6f2abf9>
+1. Plasma教程<http://go.bftf.io/www.chainshot.com/intro/5c36bf15143eed0017f579755be33994e6b0b02ef6f2abf9>
 
 2. 常用侧链的概述和分析 - Tarush的观点  <http://go.bftf.io/medium.com/tarushtech/an-overview-and-analysis-of-major-sidechains-tarushs-perspective-3fd4d2efeb50>
 
