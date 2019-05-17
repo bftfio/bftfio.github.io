@@ -16,9 +16,9 @@ BFTF 区块链技术日报(2019-05-17)
 
 4. 去中心化身份识别(DID)摘记 <http://go.bftf.io/hackmd.io/s/BkJXxoOsM>
 
-5. 自我主权身份原则 <http://go.bftf.io/medium.com/github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md>
+5. 自我主权身份原则 <http://go.bftf.io/github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md>
 
-
+6. 自我主权身份演变历史 <http://go.bftf.io/www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html>
 
 编辑：@jacktang
 
