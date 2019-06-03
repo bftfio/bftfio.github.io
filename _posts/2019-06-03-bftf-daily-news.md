@@ -12,7 +12,8 @@ BFTF 区块链技术日报(2019-06-03)
 
 2. 引介 | 以太坊 2.0：随机性 <http://go.bftf.io/mp.weixin.qq.com/s/UVAbhfAUHgrbxwFzYJzzKw>
 
-4. Bitcoin: an Accounting Revolution (比特币: 会计革命) <http://go.bftf.io/medium.com/@permabullnino/bitcoin-an-accounting-revolution-40efcb903d7b>
+3. Bitcoin: an Accounting Revolution (比特币: 会计革命) <http://go.bftf.io/medium.com/@permabullnino/bitcoin-an-accounting-revolution-40efcb903d7b> 
+   会计被认为是推动社会发展的颠覆性技术，作者在考察会计的发展历史以及发展趋势的基础上，分析了比特币为什么会给会计技术带来革命性的进步。文章并不是单纯的提供观点，它有着细致且严谨的论证，值得一看。
 
 6. 一文揭秘跨链、密钥管理、合约隐私背后的技术, 你不可不知的安全多方计算(MPC) | 技术头条 <http://go.bftf.io/mp.weixin.qq.com/s/PZjExaoABs-_tSSh1UcgUA>
 
