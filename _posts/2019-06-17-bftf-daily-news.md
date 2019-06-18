@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BFTF 区块链技术日报(2019-06-10)
+title: "BFTF 区块链技术日报(2019-06-17)
 author: "BFTF 技术社区联盟"
 categories: news
 tags: news
